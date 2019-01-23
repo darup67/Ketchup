@@ -1,6 +1,6 @@
-# Youtube Ketchup
-~ KETCHUP ~
+# Youtube Ketchup :red_circle:
 
+:arrow_forward: KETCHUP :arrow_backward:
 Initial page load - Lightbox will appear asking for users NAME and EMAIL. - NAME and EMAIL is will be stored in a DATABASE via FIREBASE. - User NAME and EMAIL can be monitized to a third party.
 
 Application that will locate local videos via a Google Map API.
