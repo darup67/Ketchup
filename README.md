@@ -15,12 +15,21 @@ Once video is done it will take you back to the map to choose another video. - I
 TECH USED:
 
 HTML5
+
 CSS
+
 BOOTSTRAP
-MATERIALIZE
+
+MATERIALIZE UI
+
 JQUERY
+
 AJAX
+
 PHOTOSHOP
+
 FIREBASE
+
 API (GOOGLE MAPS / YOUTUBE)
+
 Javascript
