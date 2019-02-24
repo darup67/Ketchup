@@ -14,22 +14,24 @@ Once video is done it will take you back to the map to choose another video. - I
 
 TECH USED:
 
-HTML5
+:ballot_box_with_check:HTML5
 
-CSS
+:ballot_box_with_check:CSS
 
-BOOTSTRAP
+:ballot_box_with_check:BOOTSTRAP
 
-MATERIALIZE UI
+:ballot_box_with_check:MATERIALIZE UI
 
-JQUERY
+:ballot_box_with_check:JQUERY
 
-AJAX
+:ballot_box_with_check:AJAX
 
-PHOTOSHOP
+:ballot_box_with_check:PHOTOSHOP
 
-FIREBASE
+:ballot_box_with_check:FIREBASE
 
-API (GOOGLE MAPS / YOUTUBE)
+:ballot_box_with_check:API (GOOGLE MAPS / YOUTUBE)
 
-Javascript
+:ballot_box_with_check:Javascript
+
+:ballot_box_with_check:React.js
