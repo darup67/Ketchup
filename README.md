@@ -35,3 +35,5 @@ TECH USED:
 :ballot_box_with_check:Javascript
 
 :ballot_box_with_check:React.js
+
+# [Slideshow](https://docs.google.com/presentation/d/1So-KKAagDwXEJH2a3fT9Tl9Ds_yqE0o0wb-cbycyuWw/edit?usp=sharing)
